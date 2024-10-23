@@ -2,11 +2,11 @@
 Uso para fins educacionais
 // ==UserScript==
 // @name         Khan Academy Auto Answer
-// @namespace    (https://pt.khanacademy.org/profile/me/teacher/kaid_396011344410263753786702/class/5832327845560320)
+// @namespace    (00001111319583sp@al.educacao.sp.gov.br)
 // @version      1.0
 // @description  Auto answer para questões do Khan Academy
-// @author       LUCAS
-// @match        *(link unavailable)*
+// @author       
+// @match        *([link unavailable](https://pt.khanacademy.org/profile/me/teacher/kaid_396011344410263753786702/class/5832327845560320))*
 // @grant        none
 // ==/UserScript==
 
