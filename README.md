@@ -1,5 +1,4 @@
 # khan-academy-auto-answer.user.js
-Uso para fins educacionais
 // ==UserScript==
 // @name         Khan Academy Auto Answer
 // @namespace    (00001111319583sp@al.educacao.sp.gov.br)
